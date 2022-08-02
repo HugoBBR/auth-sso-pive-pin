@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AuthSSO pivePin",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

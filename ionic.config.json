@@ -1,0 +1,8 @@
+{
+  "name": "AuthSSO pivePin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "dbb72ba1"
+}
